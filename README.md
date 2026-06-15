@@ -78,13 +78,7 @@ I believe in understanding how software works, not just making it work. I focus 
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOUW_GITHUB_NAAM&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOUW_GITHUB_NAAM&layout=compact)
-
----
 
 ### 💡 Motto
 
